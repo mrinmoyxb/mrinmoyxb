@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mrinmoy
 - 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning about Deep Learning
 - read my artricles on medium 
 
 <!---
