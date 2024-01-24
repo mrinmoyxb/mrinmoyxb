@@ -2,7 +2,7 @@
 <h3 align="center">Building bridges between bits and bytes</h3>
 
 - 🔭 I’m currently working on [ToDo App](https://github.com/mrinmoyxb/ToDo)
-- 🌱 I’m currently **pursuing my bachelors in Computer Science and learning Android Development**
+- 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development**
 - 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
 - 👀 I’m interested in **App Development, Data Science and Machine Learning**
 - 📫 You can reach me: **mrinmoyborah26100@gmail.com**
