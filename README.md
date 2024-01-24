@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mrinmoy Borah</h1>
+<h2 align="center">Hi 👋, I'm Mrinmoy Borah</h2>
 
 - 🔭 I’m currently working on [ToDo App](https://github.com/mrinmoyxb/ToDo)
-
-- 🌱 I’m currently learning **Android Development**
-
+- 🌱 I’m currently my **bachelors in computer science and learning Android Development**
 - 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
-
 - 💬 Ask me about **Kotlin, Python**
-
-- 📫 How to reach me **mrinmoyborah26100@gmail.com**
+- 📫 you can reach me: **mrinmoyborah26100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
