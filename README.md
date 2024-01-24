@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy Borah</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [ToDo App](https://github.com/mrinmoyxb/ToDo)
 
