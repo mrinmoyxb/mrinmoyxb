@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Mrinmoy Borah</h2>
 <h3 align="center">Building bridges between bits and bytes</h3>
 
+<h3 align="left">Know me:</h3>
 - 🔭 I’m currently working on [ToDo App](https://github.com/mrinmoyxb/ToDo)
 - 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development**
 - 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
