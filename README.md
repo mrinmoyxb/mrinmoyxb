@@ -3,7 +3,7 @@
 
 <h3 align="left">Know me:</h3>
 
-- 🔭 I’m currently working on [Cypher]([https://github.com/mrinmoyxb/Cypher])
+- 🔭 I’m currently working on [Cypher](https://github.com/mrinmoyxb/Cypher)
 - 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development**
 - 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
 - 👀 I’m interested in **App Development, Data Science and Machine Learning**
