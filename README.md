@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
 - 👀 I’m interested in **App Development, Data Science and Machine Learning**
 - 📫 You can reach me: **mrinmoyborah26100@gmail.com**
-- 😉 Are you a pointer? coz you got the address of my heart 
+- 😉 Are you a pointer? coz you got the address of my heart - C++ rizz
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/mrinmoy-borah-8b68b7290" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin.com/in/mrinmoy-borah-8b68b7290" height="30" width="30" /></a>
