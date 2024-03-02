@@ -1,12 +1,10 @@
-<h2 align="left">Hi 👋, I'm Mrinmoy</h2>
+<h1 align="left">Hi 👋, I'm Mrinmoy</h1>
 <img src = "https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/2929aaa0-6242-4ef4-9b5a-e0b7e26d903a">
 
 <h3 align="left">Know me:</h3>
 
-- 🔭 I’m currently working on [Cypher](https://github.com/mrinmoyxb/Cypher)
-- 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development**
-- 📝 I regularly write articles on [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
-- 👀 I’m interested in **App Development, Data Science and Machine Learning**
+- 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development and Machine Learning**
+- 📝 I regularly write articles on Medium: [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
 - 📫 You can reach me: **mrinmoyborah26100@gmail.com**
 - 😉 Are you a pointer? coz you got the address of my heart - C++ rizz
 <h3 align="left">Connect with me:</h3>
