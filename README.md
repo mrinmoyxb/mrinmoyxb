@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Mrinmoy Borah</h2>
-<h3 align="center">Building bridges between bits and bytes</h3>
+<h2 align="left">Hi 👋, I'm Mrinmoy</h2>
+<img src = "https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/2929aaa0-6242-4ef4-9b5a-e0b7e26d903a">
 
 <h3 align="left">Know me:</h3>
 
