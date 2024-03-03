@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mrinmoy</h1>
-<img src = "https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/2929aaa0-6242-4ef4-9b5a-e0b7e26d903a">
+<img src = "https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/d0499858-bb95-4ee5-85ec-7da6b039c5aa">
 
 <h3 align="left">Know me:</h3>
 
