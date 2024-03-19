@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently **pursuing my Bachelors in Computer Science and learning Android Development and Machine Learning**
 - 📝 I regularly write articles on Medium: [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
-- 📫 You can reach me: **mrinmoyborah26100@gmail.com**
+- 📫 You can reach me: **mrinmoyborahdev@gmail.com**
 - 😉 Are you a pointer? coz you got the address of my heart - C++ rizz
 <h3 align="left">Connect with me:</h3>
 <p align="left">
