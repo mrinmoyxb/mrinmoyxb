@@ -1,4 +1,4 @@
-<img src="https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/1c527522-a788-4172-80ed-66239dcb3647">
+<img src="https://github.com/mrinmoyxb/mrinmoyxb/assets/141025752/5fed0499-67c1-4d9f-9d4a-8a9a72b1423a">
 
 <h3 align="left">Know me:</h3>
 
