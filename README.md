@@ -6,6 +6,18 @@
 - 📝 I regularly write articles on Medium: [https://medium.com/@mrinmoyborah](https://medium.com/@mrinmoyborah)
 - 📫 You can reach me: **mrinmoyborahdev@gmail.com**
 - 😉 Are you a pointer? coz you got the address of my heart - C++ rizz
+
+<h3 align="left">Tech Stack</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mrinmoy-borah-8b68b7290/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin.com/in/mrinmoy-borah-8b68b7290" height="30" width="30" /></a>
