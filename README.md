@@ -3,8 +3,8 @@
 <h3 align="left">Know me:</h3>
 
 - 🌱 I’m currently **pursuing my Masters in Computer Science and learning Full Stack Development and Machine Learning**
-- 📝 I regularly write articles: [https://medium.com/@mrinmoyborah](Medium)
-- 🧑🏻‍🔬 You can read my research papers: [https://scholar.google.com/citations?user=2x3Bh5sAAAAJ&hl=en](GoogleScholar)
+- 📝 I regularly write articles: [Medium](https://medium.com/@mrinmoyborah)
+- 🧑🏻‍🔬 You can read my research papers: [GoogleScholar](https://scholar.google.com/citations?user=2x3Bh5sAAAAJ&hl=en)
 - 📫 You can reach me: **mrinmoyborah26100@gmail.com**
 - 😉 Are you a pointer? coz you got the address of my heart - C++ rizz
 
